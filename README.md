@@ -1,6 +1,10 @@
 # ComRH--Combining Representation Learning and Classic Heuristics for Link Prediction.
 ===============================================================================
 
+## NOTE: We only release parts of implementation code currently.
+
+## Results: we show the training outputs in the folder results, which can confirm our results in the paper work.
+
 About
 -----
 This repository supports the following work:
@@ -37,7 +41,5 @@ Install [OGB](https://ogb.stanford.edu/docs/home/)
 Usages
 ------
 
-## NOTEs
 
-We only release parts of implementation code currently.
 
