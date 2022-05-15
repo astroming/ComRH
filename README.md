@@ -40,11 +40,12 @@ Usages
 ### Contents description
 
     main_pred.py, utils.py, models.py
-
-## NOTE: We hide several lines in above scripts and they are not executed currently.
-
-### Results
+    
     We show the training outputs in the folder results, which can confirm our experimental results.
+
+## NOTE: We have hiden several lines in scripts above and therefore, they are not executed currently.
+
+
 
 
 
