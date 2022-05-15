@@ -1,6 +1,10 @@
 # ComRH--Combining Representation Learning and Classic Heuristics for Link Prediction.
 ===============================================================================
 
+## Contents description
+
+    main_pred.py 
+
 ## NOTE: We only release parts of implementation code currently.
 
 ## Results: we show the training outputs in the folder results, which can confirm our results in the paper work.
