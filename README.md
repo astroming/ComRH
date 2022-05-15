@@ -41,9 +41,8 @@ Usages
 
     main_pred.py, utils.py, models.py
     
-    results: are the training outputs, which can confirm our experimental results.
 
-## NOTE: We have hiden several lines in scripts above and therefore, they are not executed currently!!!
+# NOTE: We have hiden several lines in our scripts above and therefore, they are not executed currently!!! The records of training outputs can confirm our experimental results.
 
 
 
