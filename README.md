@@ -26,10 +26,11 @@ Requirements
 
 Latest tested combination: Python 3.8.5 + PyTorch 1.10.0 + PyTorch\_Geometric (cuda 102+PyTorch1.10.0) + OGB 1.3.1.
 
+Install python basic libraries 
+
 Install [PyTorch](https://pytorch.org/)
 
 Install [PyTorch\_Geometric](https://pytorch-geometric.readthedocs.io/en/latest/notes/installation.html)
 
 Install [OGB](https://ogb.stanford.edu/docs/home/)
 
-Other required python libraries include: numpy, scipy, tqdm etc.
