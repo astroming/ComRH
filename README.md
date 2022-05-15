@@ -39,9 +39,9 @@ Usages
 
 ### Contents description
 
-    main_pred.py, utili
+    main_pred.py, utils.py, models.py
 
-## NOTE: We only release parts of implementation code currently.
+## NOTE: We hide lines of code in above scripes before this work is publised and therefore, they are not executed currently.
 
 ## Results: we show the training outputs in the folder results, which can confirm our results in the paper work.
 
