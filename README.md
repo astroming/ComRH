@@ -34,3 +34,10 @@ Install [PyTorch\_Geometric](https://pytorch-geometric.readthedocs.io/en/latest/
 
 Install [OGB](https://ogb.stanford.edu/docs/home/)
 
+Usages
+------
+
+## NOTEs
+
+We only release parts of implementation code currently.
+
