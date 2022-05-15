@@ -43,7 +43,7 @@ Usages
     
     We show the training outputs in the folder results, which can confirm our experimental results.
 
-## NOTE: We have hiden several lines in scripts above and therefore, they are not executed currently.
+## NOTE: We have hiden several lines in scripts above and therefore, they are not executed currently!!!
 
 
 
