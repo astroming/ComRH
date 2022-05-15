@@ -18,4 +18,18 @@ We conduct experiments on four link prediction datasets from  Open Graph Benchma
 62.55\% Hits@100 on ogbl-ppa, 
 
 88.94\% MRR on ogbl-citation2. 
+
 Further empirical study shows that the link heuristics can boost the prediction performance on sparse graphs and representation learning contributes more on very dense graphs.
+
+Requirements
+------------
+
+Latest tested combination: Python 3.8.5 + PyTorch 1.10.0 + PyTorch\_Geometric (cuda 102+PyTorch1.10.0) + OGB 1.3.1.
+
+Install [PyTorch](https://pytorch.org/)
+
+Install [PyTorch\_Geometric](https://pytorch-geometric.readthedocs.io/en/latest/notes/installation.html)
+
+Install [OGB](https://ogb.stanford.edu/docs/home/)
+
+Other required python libraries include: numpy, scipy, tqdm etc.
