@@ -1,6 +1,8 @@
-<font color="red">
-- # NOTE: We have hiden several lines in our scripts heree and therefore, they are not executed currently! Instead, the records of training outputs can confirm our experimental results.
-</font>
+# NOTE: We have hiden several lines in our scripts heree and therefore, they are not executed currently! Instead, the records of training outputs can confirm our experimental results.
+
+<style>H1{color:Blue;}</style>
+<style>H2{color:DarkOrange;}</style>
+<style>p{color:Black;}</style>
 
 # ComRH--Combining Representation Learning and Classic Heuristics for Link Prediction.
 
