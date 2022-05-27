@@ -1,7 +1,8 @@
-# ComRH--Combining Representation Learning and Classic Heuristics for Link Prediction.
-
 
 # NOTE: We have hiden several lines in our scripts heree and therefore, they are not executed currently!!! Instead, the records of training outputs can confirm our experimental results.
+
+# ComRH--Combining Representation Learning and Classic Heuristics for Link Prediction.
+
 
 About
 -----
