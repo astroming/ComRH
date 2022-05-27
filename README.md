@@ -37,7 +37,7 @@ Install [PyTorch\_Geometric](https://pytorch-geometric.readthedocs.io/en/latest/
 
 Install [OGB](https://ogb.stanford.edu/docs/home/)
 
-Usages
+<!-- Usages -->
 ------
 <!-- 
 ### Contents description
