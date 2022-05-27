@@ -1,12 +1,8 @@
 # NOTE: We have hiden several lines in our scripts heree and therefore, they are not executed currently! Instead, the records of training outputs can confirm our experimental results.
 
-<style>
-H1{color:Blue !important;}
-H2{color:DarkOrange !important;}
-p{color:Black !important;}
-</style>
 
-# ComRH--Combining Representation Learning and Classic Heuristics for Link Prediction.
+
+## ComRH--Combining Representation Learning and Classic Heuristics for Link Prediction.
 
 
 About
