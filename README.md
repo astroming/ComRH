@@ -1,5 +1,5 @@
 # !!!!!!
-# !!!!!! NOTE: We have hiden several lines in our scripts here and therefore, they are not executed currently! Instead, the records of training outputs can confirm our experimental results.
+# !!!!!! NOTE: We have hiden several lines in our scripts. They are not executed currently! Instead, the records of training outputs can confirm our experimental results.
 # !!!!!!
 
 
