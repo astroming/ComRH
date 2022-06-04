@@ -16,13 +16,13 @@ ComRH separately encodes link heuristics into trainable embedding vectors and di
 
 We conduct experiments on four link prediction datasets from  Open Graph Benchmark (OGB). ComRH outperforms the top competitors on four OGB benchmark datasets by large margins, gaining new state-of-the-arts, 
 
-94.40\% Hits@20 on ogbl-ddi, 
+94.4\% Hits@20 on ogbl-ddi, 
 
-58.13\% Hits@50 on ogbl-collab, 
+58.1\% Hits@50 on ogbl-collab, 
 
-62.55\% Hits@100 on ogbl-ppa, 
+62.5\% Hits@100 on ogbl-ppa, 
 
-88.94\% MRR on ogbl-citation2. 
+88.9\% MRR on ogbl-citation2. 
 
 Further empirical study shows that the link heuristics can boost the prediction performance on sparse graphs and representation learning contributes more on very dense graphs.
 
