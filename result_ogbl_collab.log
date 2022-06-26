@@ -9896,7 +9896,7 @@ learning rate: 0.0006262
 learning rate: 0.0006259
 : Hits@50: Run: 02, Epoch: 937, Loss: 0.0031, Valid: 66.46%, Test: 56.38%
 learning rate: 0.0006256
-: Hits@50: Run: 02, Epoch: 938, Loss: 0.0031, Valid: 67.74%, Test: 57.67%
+: Hits@50: Run: 02, Epoch: 938, Loss: 0.0031, Valid: 67.74%, Test: 57.88%
 learning rate: 0.0006252
 : Hits@50: Run: 02, Epoch: 939, Loss: 0.0029, Valid: 67.51%, Test: 57.42%
 learning rate: 0.0006249
@@ -12024,7 +12024,7 @@ Hits@50
 Run 02:
 Highest Valid: 67.74
 Highest Eval Epoch: 938
-   Final Test: 57.67
+   Final Test: 57.88
 Hits@100
 MRR
 AUC
@@ -40103,7 +40103,7 @@ Hits@20
 Hits@50
 All non-Nan runs: 10
 Highest Valid: 68.10 ± 0.27
-   Final Test: 58.11 ± 0.35
+   Final Test: 58.13 ± 0.31
 Hits@100
 MRR
 AUC
